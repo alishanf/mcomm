@@ -1,0 +1,9 @@
+Review_id: The identifier of the review.
+Author: Name of the customer who posted the review.
+Title: The summary or main point of the review.
+Review: The detailed text of the review.
+Dates: The timestamps when the review was written or submitted.
+Restaurant: Name or identifier of the restaurant being reviewed.
+Location: The location of the restaurant.
+Category: The category of the restaurant.
+Rating: Rating values provided by the customer, ranging from 1 star to 5 star.ß
